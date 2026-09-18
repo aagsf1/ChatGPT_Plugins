@@ -1,0 +1,83 @@
+{
+  "versao": 1,
+  "data_catalogacao": "2026-09-18",
+  "fontes": [
+    {
+      "id": "ra-59-2026",
+      "titulo": "Resolução Administrativa TRT-16 nº 59/2026",
+      "url": "https://bibliotecadigital.trt16.jus.br/entities/publication/2c16d0a5-e3b9-483d-89df-5fbc418729a4",
+      "arquivo": null,
+      "sha256": null,
+      "integra_incorporada": false,
+      "vigencia_confirmada": false,
+      "situacao": "Página de metadados consultada; íntegra não incorporada. Publicação informada pelo repositório: 24/04/2026. Data de 23 de abril de 2026 provém da conversa e requer conferência na íntegra.",
+      "consulta_url": "2026-09-18"
+    },
+    {
+      "id": "regimento-interno",
+      "titulo": "Regimento Interno do TRT-16",
+      "url": null,
+      "arquivo": null,
+      "sha256": null,
+      "integra_incorporada": false,
+      "vigencia_confirmada": false,
+      "situacao": "Documento não fornecido; versão vigente e endereço direto pendentes.",
+      "consulta_url": null
+    },
+    {
+      "id": "regulamento-geral",
+      "titulo": "Regulamento Geral do TRT-16",
+      "url": null,
+      "arquivo": null,
+      "sha256": null,
+      "integra_incorporada": false,
+      "vigencia_confirmada": false,
+      "situacao": "Documento não fornecido; versão vigente e endereço direto pendentes.",
+      "consulta_url": null
+    },
+    {
+      "id": "lc-95-1998",
+      "titulo": "Lei Complementar nº 95, de 26 de fevereiro de 1998",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp95.htm",
+      "arquivo": null,
+      "sha256": null,
+      "integra_incorporada": false,
+      "vigencia_confirmada": false,
+      "situacao": "Página oficial consultada; íntegra não incorporada. Conferir redação, âmbito e alterações no uso concreto.",
+      "consulta_url": "2026-09-18"
+    },
+    {
+      "id": "decreto-12002-2024",
+      "titulo": "Decreto nº 12.002, de 22 de abril de 2024",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d12002.htm",
+      "arquivo": null,
+      "sha256": null,
+      "integra_incorporada": false,
+      "vigencia_confirmada": false,
+      "situacao": "Página oficial localizada e aberta; não realizada auditoria integral. Não presumir incidência direta ao TRT-16.",
+      "consulta_url": "2026-09-18"
+    },
+    {
+      "id": "ra-41-2026",
+      "titulo": "Resolução Administrativa TRT-16 nº 41/2026",
+      "url": null,
+      "arquivo": null,
+      "sha256": null,
+      "integra_incorporada": false,
+      "vigencia_confirmada": false,
+      "situacao": "Fonte indicada pelo usuário para colegiados; íntegra, data e conteúdo não validados.",
+      "consulta_url": null
+    },
+    {
+      "id": "manual-redacao",
+      "titulo": "Manual de Redação da Presidência da República",
+      "url": null,
+      "arquivo": null,
+      "sha256": null,
+      "integra_incorporada": false,
+      "vigencia_confirmada": false,
+      "situacao": "Fonte indicada pelo usuário; edição, arquivo e endereço direto pendentes de validação.",
+      "consulta_url": null
+    }
+  ]
+}

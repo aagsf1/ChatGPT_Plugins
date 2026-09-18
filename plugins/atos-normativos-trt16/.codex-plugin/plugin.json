@@ -1,0 +1,22 @@
+{
+  "name": "atos-normativos-trt16",
+  "version": "1.0.0",
+  "description": "Núcleo comum e cinco skills para trabalho com atos normativos do TRT-16.",
+  "author": {
+    "name": "Projeto local independente"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Atos Normativos TRT-16",
+    "shortDescription": "Análise, criação, revisão, consolidação e colegiados.",
+    "longDescription": "Fluxos jurídicos com núcleo compartilhado e fontes separadas. Pacote de trabalho independente, sem chancela institucional presumida.",
+    "developerName": "Projeto local independente",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": [
+      "Analise esta minuta e classifique os achados.",
+      "Elabore uma minuta com as lacunas identificadas.",
+      "Consolide os atos anexos na data indicada."
+    ]
+  }
+}

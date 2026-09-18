@@ -1,0 +1,4 @@
+interface:
+  display_name: "Colegiados — TRT-16"
+  short_description: "Colegiados de atos normativos do TRT-16"
+  default_prompt: "Use $colegiados para trabalhar com os atos anexos, identificando fontes e pendências."

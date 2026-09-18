@@ -1,0 +1,4 @@
+interface:
+  display_name: "Análise — TRT-16"
+  short_description: "Análise de atos normativos do TRT-16"
+  default_prompt: "Use $analise para trabalhar com os atos anexos, identificando fontes e pendências."

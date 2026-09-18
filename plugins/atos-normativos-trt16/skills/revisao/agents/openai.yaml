@@ -1,0 +1,4 @@
+interface:
+  display_name: "Revisão — TRT-16"
+  short_description: "Revisão de atos normativos do TRT-16"
+  default_prompt: "Use $revisao para trabalhar com os atos anexos, identificando fontes e pendências."

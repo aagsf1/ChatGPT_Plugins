@@ -1,0 +1,4 @@
+interface:
+  display_name: "Criação — TRT-16"
+  short_description: "Criação de atos normativos do TRT-16"
+  default_prompt: "Use $criacao para trabalhar com os atos anexos, identificando fontes e pendências."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Consolidação — TRT-16"
+  short_description: "Consolidação de atos normativos do TRT-16"
+  default_prompt: "Use $consolidacao para trabalhar com os atos anexos, identificando fontes e pendências."
